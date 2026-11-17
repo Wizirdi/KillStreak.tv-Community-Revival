@@ -1,6 +1,7 @@
 # 🎮 KillStreak.tv Revival
 ### Bringing KillStreak.tv Back to Life!
 **An unofficial, community-driven revival of KillStreak.tv, the multiplayer arena shooter.**
+Discord: https://discord.gg/sPj4NBpSAv
 
 KillStreak.tv was a fast-paced multiplayer shooter developed by SideQuestNZ and published by Blue Wizard Digital.
 After the original online services were discontinued, the game became inaccessible to players who wanted to experience it again.
