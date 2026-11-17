@@ -58,6 +58,7 @@ We are working toward:
 
 ## 📥 Downloads
 ### Revival Builds
+https://github.com/Wizirdi/KillStreak.tv-Community-Revival/releases/tag/release
 
 ---
 
